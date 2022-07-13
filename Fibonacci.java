@@ -4,7 +4,7 @@ class Fib {
 	{
 		Scanner sc = new Scanner (System.in);
 		int upto;
-		System.out.println("Enter number upto you need Fibonaccie Series");
+		System.out.println("Enter number upto you need Fibonacci Series");
 		upto = sc.nextInt();
 		int n1 =0, n2 = 1, n3;
 		System.out.println(n1);
